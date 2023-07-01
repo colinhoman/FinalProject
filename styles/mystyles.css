@@ -5,6 +5,7 @@ ul{
 li{
     font-weight: normal;
     font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .style_li{
     font-size: 23px;
