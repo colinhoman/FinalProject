@@ -1,0 +1,35 @@
+ul{
+    font-size: 15px;
+}
+
+li{
+    font-weight: normal;
+    font-style: normal;
+}
+.style_li{
+    font-size: 23px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+body {
+    background-color: #e4f1ee;
+}
+
+.anchorcolor {
+    color: #1a2a69;
+}
+
+.contactcolor {
+    color: #1a2a69;
+}
+
+.quotestyle {
+    color: #1a2a69;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.gonzagastyle {
+    color: #C8102E;
+}
